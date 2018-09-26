@@ -25,6 +25,11 @@ v) https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-
 vi) https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc
 vii) https://blog.envoyproxy.io/the-universal-data-plane-api-d15cec7a
 
+viii) https://aws.amazon.com/elasticloadbalancing/
+ix) https://cloud.google.com/load-balancing/
+x) https://grpc.io/
+xi) https://en.wikipedia.org/wiki/OSI_model
+
 ==================================================================
 
 Introduction to modern network load balancing and proxying
