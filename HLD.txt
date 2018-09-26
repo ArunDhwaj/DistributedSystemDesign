@@ -30,6 +30,8 @@ ix) https://cloud.google.com/load-balancing/
 x) https://grpc.io/
 xi) https://en.wikipedia.org/wiki/OSI_model
 
+xii) https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+
 ==================================================================
 
 Introduction to modern network load balancing and proxying
