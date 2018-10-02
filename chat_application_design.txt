@@ -20,3 +20,6 @@ Architecture and Design of Chat Application
 2.5) Should service unable to handle the large number of cocurrent users or users spike will breaks the project or brands? Yes.
 2.6) Should message service slow performance breaks the project or brands? No.
 
+
+References: 
+Isolation: https://en.wikipedia.org/wiki/Isolation_(database_systems)
