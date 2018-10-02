@@ -1,0 +1,20 @@
+
+
+ Retailers Web Application System Design
+ =========================================
+ 
+ 1)List of Services
+ ====================
+ 
+ 1.1) User sessions: No-SQL=> Redis
+ 1.2) Financial Data: RDBMS => MySQL
+ 1.3) Shopping cart: Riak  
+ 1.4) Recommendations: Neo4j
+ 1.5) Product catalog: MongoDB
+ 1.6) Reporting: RDBMS
+ 1.7) Analytics: (Write oriented): Cassandra 
+ 1.8) User Activity Logs: Cassandra.
+ 
+ 
+ 
+ 
