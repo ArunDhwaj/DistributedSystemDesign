@@ -1,0 +1,14 @@
+
+Architecture and Design of Chat Application
+============================================
+
+1.0)Non-functional parameters (Decreasing order of priority)
+=============================================================
+
+1.1) Messaging service should be always available.
+1.2) Message must be delivered only once.
+1.3) Message must be saved.
+1.4) Message must be secure.
+1.5) Messaging service should be scalable.
+1.6) IT should be performat.
+
