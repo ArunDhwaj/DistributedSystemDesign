@@ -10,5 +10,5 @@ Architecture and Design of Chat Application
 1.3) Message must be saved.
 1.4) Message must be secure.
 1.5) Messaging service should be scalable.
-1.6) IT should be performat.
+1.6) It should be performat.
 
