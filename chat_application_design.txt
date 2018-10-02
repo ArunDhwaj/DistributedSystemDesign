@@ -12,3 +12,11 @@ Architecture and Design of Chat Application
 1.5) Messaging service should be scalable.
 1.6) It should be performat.
 
+2.0) Design questions?
+2.1) Should unavailability breaks the project or brands? Yes.
+2.2) Should undelivering of message breaks the project or brands? Yes.
+2.3) Should unsaving of message breaks the project or brands? Not, but its critical.
+2.4) Should security breach of message breaks the project or brands? Yes.
+2.5) Should service unable to handle the large number of cocurrent users or users spike will breaks the project or brands? Yes.
+2.6) Should message service slow performance breaks the project or brands? No.
+
